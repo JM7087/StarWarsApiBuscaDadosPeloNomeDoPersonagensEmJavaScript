@@ -2,7 +2,7 @@
 
 Este projeto permite aos usuários buscar personagens de Star Wars pelo nome utilizando a Star Wars API (SWAPI). Ele foi implementado usando JavaScript e busca dados de forma dinâmica da SWAPI.
 
-## Capturas de Tela
+## Capturas de Telas
 
 ![Captura de Tela 1](https://blogger.googleusercontent.com/img/a/AVvXsEiU_sTvOtIbcuIpGhq7HGxK98oj0HZEs7gfwdzI3dy0JXxlhIDyzRfmirlaYld2giQM_8uBTKDRWMgRCV7LXddPLx0QORrCBv3oXi_IsYPbkTmHBJFtqpwjmmg25zqadKlB__qoTlTB1IWspNncBvPTC8I3mdqi12xMkNOYxAujLA-_ScPNSxkrm-snA9Jn)
 
