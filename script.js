@@ -7,6 +7,8 @@
 
     if (characterName.trim() !== "") {
 
+      resultDiv.style.display = "block";
+
       // Exibe o ícone de carregamento
       resultDiv.innerHTML = `
       <div>
