@@ -34,7 +34,7 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas (issue
 
 Este projeto utiliza a [Star Wars API (SWAPI)](https://swapi.dev/) para obter informações dos personagens.
 
-Desenvolvido por [João Marcos](https://linkes.jm7087.com)
+Desenvolvido por [João Marcos](https://www.jmdos.com.br)
 
 ## Contribuindo
 
